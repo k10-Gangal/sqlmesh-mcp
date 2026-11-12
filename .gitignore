@@ -1,0 +1,14 @@
+# credentials and local config
+.env
+*.env
+!.env.example
+mcp/.env
+
+# python / build
+.venv/
+__pycache__/
+*.pyc
+
+# misc
+.DS_Store
+*.zip

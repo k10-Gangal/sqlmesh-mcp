@@ -1,0 +1,8 @@
+sqlmesh>=0.236.3,<0.237
+psycopg2-binary>=2.9.9
+pymysql>=1.1
+google-cloud-bigquery>=3.20
+duckdb>=1.0
+mcp>=2.2,<3
+pydantic>=2.7
+pyyaml>=6.0
